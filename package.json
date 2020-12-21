@@ -1,0 +1,20 @@
+{
+  "name": "reczica",
+  "version": "0.0.1",
+  "description": "Reczica stuff",
+  "scripts": {
+    "pdf": "md-to-pdf slovoizměnba.md"
+  },
+  "keywords": [
+    "reczica", "interslavic"
+  ],
+  "author": "Malo Skrylevo <majioa@yandex.ru>",
+  "license": "CC-SA-NC-ND-3.0",
+  "devDependencies": {
+     "md-to-pdf": "^2.8.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/znamenica/interslavic.git"
+  }
+}
