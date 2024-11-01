@@ -1,3 +1,3 @@
-# Madžuslovjansky jezyk (interslavic)
+# Vsislovıěnsk jezyk (allslavic)
 
-Sej shov sodrži dokumenty razčuleni i dotyčeni do medžuslovjanskogo jezyka.
+Sej sxov sǫdrži dokumenty razčuleni i dotyčeni do vsislovıěnskogo jezyka.
